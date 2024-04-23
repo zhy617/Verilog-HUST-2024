@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/CS_Learning/class/Verilog/4/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/b2d_tb.v,1713542090,verilog,,,,b2d_tb,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/lab1_tb.v,1713538812,verilog,,,,lab1_tb,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/lab2_tb.v,1713535886,verilog,,,,lab2_tb,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/lab3_tb.v,1713539124,verilog,,,,lab3_tb,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/imports/new/divider.v,1712141729,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/fsm.v,,divider,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/comparator.v,1713352941,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/fsm.v,,comparator,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/decoderb2d.v,1713542228,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/b2d_tb.v,,decoderb2d,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/fsm.v,1713539443,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/full_adder.v,,fsm,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/full_adder.v,1713537545,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/lab1.v,,full_adder,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/lab1.v,1713538179,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/mux_21.v,,lab1,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/mux_21.v,1713353608,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/ram.v,,mux_21,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/ram.v,1713538928,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/register.v,,ram,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/register.v,1713536644,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/top.v,,register,,,,,,,,
+D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/top.v,1713539267,verilog,,D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/lab3_tb.v,,top,,,,,,,,

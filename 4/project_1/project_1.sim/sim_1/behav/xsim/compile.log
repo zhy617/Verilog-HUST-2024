@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sources_1/new/decoderb2d.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoderb2d
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CS_Learning/class/Verilog/4/project_1/project_1.srcs/sim_1/new/b2d_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module b2d_tb
